@@ -1,0 +1,11 @@
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\bin\Debug\netcoreapp2.1\Operacoes.Aritmeticas.deps.json
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\bin\Debug\netcoreapp2.1\Operacoes.Aritmeticas.runtimeconfig.json
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\bin\Debug\netcoreapp2.1\Operacoes.Aritmeticas.runtimeconfig.dev.json
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\bin\Debug\netcoreapp2.1\Operacoes.Aritmeticas.dll
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\bin\Debug\netcoreapp2.1\Operacoes.Aritmeticas.pdb
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\obj\Debug\netcoreapp2.1\Operacoes.Aritmeticas.csprojAssemblyReference.cache
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\obj\Debug\netcoreapp2.1\Operacoes.Aritmeticas.csproj.CoreCompileInputs.cache
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\obj\Debug\netcoreapp2.1\Operacoes.Aritmeticas.AssemblyInfoInputs.cache
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\obj\Debug\netcoreapp2.1\Operacoes.Aritmeticas.AssemblyInfo.cs
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\obj\Debug\netcoreapp2.1\Operacoes.Aritmeticas.dll
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\obj\Debug\netcoreapp2.1\Operacoes.Aritmeticas.pdb

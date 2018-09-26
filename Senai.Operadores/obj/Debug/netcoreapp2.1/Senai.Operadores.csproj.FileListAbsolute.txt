@@ -1,0 +1,11 @@
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\bin\Debug\netcoreapp2.1\Senai.Operadores.deps.json
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\bin\Debug\netcoreapp2.1\Senai.Operadores.runtimeconfig.json
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\bin\Debug\netcoreapp2.1\Senai.Operadores.runtimeconfig.dev.json
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\bin\Debug\netcoreapp2.1\Senai.Operadores.dll
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\bin\Debug\netcoreapp2.1\Senai.Operadores.pdb
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\obj\Debug\netcoreapp2.1\Senai.Operadores.csprojAssemblyReference.cache
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\obj\Debug\netcoreapp2.1\Senai.Operadores.csproj.CoreCompileInputs.cache
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\obj\Debug\netcoreapp2.1\Senai.Operadores.AssemblyInfoInputs.cache
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\obj\Debug\netcoreapp2.1\Senai.Operadores.AssemblyInfo.cs
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\obj\Debug\netcoreapp2.1\Senai.Operadores.dll
+C:\Users\35711103822\Desktop\C#\Senai.Operadores\obj\Debug\netcoreapp2.1\Senai.Operadores.pdb
