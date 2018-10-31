@@ -1,0 +1,11 @@
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\Rodizio\bin\Debug\netcoreapp2.1\Rodizio.deps.json
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\Rodizio\bin\Debug\netcoreapp2.1\Rodizio.runtimeconfig.json
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\Rodizio\bin\Debug\netcoreapp2.1\Rodizio.runtimeconfig.dev.json
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\Rodizio\bin\Debug\netcoreapp2.1\Rodizio.dll
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\Rodizio\bin\Debug\netcoreapp2.1\Rodizio.pdb
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\Rodizio\obj\Debug\netcoreapp2.1\Rodizio.csprojAssemblyReference.cache
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\Rodizio\obj\Debug\netcoreapp2.1\Rodizio.csproj.CoreCompileInputs.cache
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\Rodizio\obj\Debug\netcoreapp2.1\Rodizio.AssemblyInfoInputs.cache
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\Rodizio\obj\Debug\netcoreapp2.1\Rodizio.AssemblyInfo.cs
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\Rodizio\obj\Debug\netcoreapp2.1\Rodizio.dll
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\Rodizio\obj\Debug\netcoreapp2.1\Rodizio.pdb

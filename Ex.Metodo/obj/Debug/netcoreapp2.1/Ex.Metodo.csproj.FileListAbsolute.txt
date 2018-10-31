@@ -1,0 +1,11 @@
+C:\Users\35711103822\Desktop\Ex.Metodo\bin\Debug\netcoreapp2.1\Ex.Metodo.deps.json
+C:\Users\35711103822\Desktop\Ex.Metodo\bin\Debug\netcoreapp2.1\Ex.Metodo.runtimeconfig.json
+C:\Users\35711103822\Desktop\Ex.Metodo\bin\Debug\netcoreapp2.1\Ex.Metodo.runtimeconfig.dev.json
+C:\Users\35711103822\Desktop\Ex.Metodo\bin\Debug\netcoreapp2.1\Ex.Metodo.dll
+C:\Users\35711103822\Desktop\Ex.Metodo\bin\Debug\netcoreapp2.1\Ex.Metodo.pdb
+C:\Users\35711103822\Desktop\Ex.Metodo\obj\Debug\netcoreapp2.1\Ex.Metodo.csprojAssemblyReference.cache
+C:\Users\35711103822\Desktop\Ex.Metodo\obj\Debug\netcoreapp2.1\Ex.Metodo.csproj.CoreCompileInputs.cache
+C:\Users\35711103822\Desktop\Ex.Metodo\obj\Debug\netcoreapp2.1\Ex.Metodo.AssemblyInfoInputs.cache
+C:\Users\35711103822\Desktop\Ex.Metodo\obj\Debug\netcoreapp2.1\Ex.Metodo.AssemblyInfo.cs
+C:\Users\35711103822\Desktop\Ex.Metodo\obj\Debug\netcoreapp2.1\Ex.Metodo.dll
+C:\Users\35711103822\Desktop\Ex.Metodo\obj\Debug\netcoreapp2.1\Ex.Metodo.pdb

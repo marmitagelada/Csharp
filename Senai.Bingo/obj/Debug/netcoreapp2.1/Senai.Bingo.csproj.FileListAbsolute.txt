@@ -1,0 +1,11 @@
+C:\Users\35711103822\Desktop\Senai.Bingo\bin\Debug\netcoreapp2.1\Senai.Bingo.deps.json
+C:\Users\35711103822\Desktop\Senai.Bingo\bin\Debug\netcoreapp2.1\Senai.Bingo.runtimeconfig.json
+C:\Users\35711103822\Desktop\Senai.Bingo\bin\Debug\netcoreapp2.1\Senai.Bingo.runtimeconfig.dev.json
+C:\Users\35711103822\Desktop\Senai.Bingo\bin\Debug\netcoreapp2.1\Senai.Bingo.dll
+C:\Users\35711103822\Desktop\Senai.Bingo\bin\Debug\netcoreapp2.1\Senai.Bingo.pdb
+C:\Users\35711103822\Desktop\Senai.Bingo\obj\Debug\netcoreapp2.1\Senai.Bingo.csprojAssemblyReference.cache
+C:\Users\35711103822\Desktop\Senai.Bingo\obj\Debug\netcoreapp2.1\Senai.Bingo.csproj.CoreCompileInputs.cache
+C:\Users\35711103822\Desktop\Senai.Bingo\obj\Debug\netcoreapp2.1\Senai.Bingo.AssemblyInfoInputs.cache
+C:\Users\35711103822\Desktop\Senai.Bingo\obj\Debug\netcoreapp2.1\Senai.Bingo.AssemblyInfo.cs
+C:\Users\35711103822\Desktop\Senai.Bingo\obj\Debug\netcoreapp2.1\Senai.Bingo.dll
+C:\Users\35711103822\Desktop\Senai.Bingo\obj\Debug\netcoreapp2.1\Senai.Bingo.pdb

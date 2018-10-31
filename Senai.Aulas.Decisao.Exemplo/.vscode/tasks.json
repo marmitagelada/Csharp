@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Senai.Aulas.Decisao.Exemplo1/Senai.Aulas.Decisao.Exemplo1.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

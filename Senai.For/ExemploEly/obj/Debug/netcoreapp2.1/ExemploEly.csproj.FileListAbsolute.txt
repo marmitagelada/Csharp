@@ -1,0 +1,11 @@
+C:\Users\35711103822\Desktop\Senai.For\ExemploEly\obj\Debug\netcoreapp2.1\ExemploEly.csprojAssemblyReference.cache
+C:\Users\35711103822\Desktop\Senai.For\ExemploEly\obj\Debug\netcoreapp2.1\ExemploEly.csproj.CoreCompileInputs.cache
+C:\Users\35711103822\Desktop\Senai.For\ExemploEly\obj\Debug\netcoreapp2.1\ExemploEly.AssemblyInfoInputs.cache
+C:\Users\35711103822\Desktop\Senai.For\ExemploEly\obj\Debug\netcoreapp2.1\ExemploEly.AssemblyInfo.cs
+C:\Users\35711103822\Desktop\Senai.For\ExemploEly\bin\Debug\netcoreapp2.1\ExemploEly.deps.json
+C:\Users\35711103822\Desktop\Senai.For\ExemploEly\bin\Debug\netcoreapp2.1\ExemploEly.runtimeconfig.json
+C:\Users\35711103822\Desktop\Senai.For\ExemploEly\bin\Debug\netcoreapp2.1\ExemploEly.runtimeconfig.dev.json
+C:\Users\35711103822\Desktop\Senai.For\ExemploEly\bin\Debug\netcoreapp2.1\ExemploEly.dll
+C:\Users\35711103822\Desktop\Senai.For\ExemploEly\bin\Debug\netcoreapp2.1\ExemploEly.pdb
+C:\Users\35711103822\Desktop\Senai.For\ExemploEly\obj\Debug\netcoreapp2.1\ExemploEly.dll
+C:\Users\35711103822\Desktop\Senai.For\ExemploEly\obj\Debug\netcoreapp2.1\ExemploEly.pdb

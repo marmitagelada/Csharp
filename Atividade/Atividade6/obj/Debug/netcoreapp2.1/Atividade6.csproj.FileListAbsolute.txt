@@ -1,0 +1,11 @@
+C:\Users\35711103822\Desktop\Atividade\Atividade6\bin\Debug\netcoreapp2.1\Atividade6.deps.json
+C:\Users\35711103822\Desktop\Atividade\Atividade6\bin\Debug\netcoreapp2.1\Atividade6.runtimeconfig.json
+C:\Users\35711103822\Desktop\Atividade\Atividade6\bin\Debug\netcoreapp2.1\Atividade6.runtimeconfig.dev.json
+C:\Users\35711103822\Desktop\Atividade\Atividade6\bin\Debug\netcoreapp2.1\Atividade6.dll
+C:\Users\35711103822\Desktop\Atividade\Atividade6\bin\Debug\netcoreapp2.1\Atividade6.pdb
+C:\Users\35711103822\Desktop\Atividade\Atividade6\obj\Debug\netcoreapp2.1\Atividade6.csprojAssemblyReference.cache
+C:\Users\35711103822\Desktop\Atividade\Atividade6\obj\Debug\netcoreapp2.1\Atividade6.csproj.CoreCompileInputs.cache
+C:\Users\35711103822\Desktop\Atividade\Atividade6\obj\Debug\netcoreapp2.1\Atividade6.AssemblyInfoInputs.cache
+C:\Users\35711103822\Desktop\Atividade\Atividade6\obj\Debug\netcoreapp2.1\Atividade6.AssemblyInfo.cs
+C:\Users\35711103822\Desktop\Atividade\Atividade6\obj\Debug\netcoreapp2.1\Atividade6.dll
+C:\Users\35711103822\Desktop\Atividade\Atividade6\obj\Debug\netcoreapp2.1\Atividade6.pdb

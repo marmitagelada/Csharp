@@ -1,0 +1,11 @@
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\DiaSemana\bin\Debug\netcoreapp2.1\DiaSemana.deps.json
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\DiaSemana\bin\Debug\netcoreapp2.1\DiaSemana.runtimeconfig.json
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\DiaSemana\bin\Debug\netcoreapp2.1\DiaSemana.runtimeconfig.dev.json
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\DiaSemana\bin\Debug\netcoreapp2.1\DiaSemana.dll
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\DiaSemana\bin\Debug\netcoreapp2.1\DiaSemana.pdb
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\DiaSemana\obj\Debug\netcoreapp2.1\DiaSemana.csprojAssemblyReference.cache
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\DiaSemana\obj\Debug\netcoreapp2.1\DiaSemana.csproj.CoreCompileInputs.cache
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\DiaSemana\obj\Debug\netcoreapp2.1\DiaSemana.AssemblyInfoInputs.cache
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\DiaSemana\obj\Debug\netcoreapp2.1\DiaSemana.AssemblyInfo.cs
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\DiaSemana\obj\Debug\netcoreapp2.1\DiaSemana.dll
+C:\Users\35711103822\Desktop\Senai.Switch.Decisao\DiaSemana\obj\Debug\netcoreapp2.1\DiaSemana.pdb

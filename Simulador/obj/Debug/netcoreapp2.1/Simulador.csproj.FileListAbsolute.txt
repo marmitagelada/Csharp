@@ -1,0 +1,11 @@
+C:\Users\35711103822\Desktop\Simulador\obj\Debug\netcoreapp2.1\Simulador.csprojAssemblyReference.cache
+C:\Users\35711103822\Desktop\Simulador\obj\Debug\netcoreapp2.1\Simulador.csproj.CoreCompileInputs.cache
+C:\Users\35711103822\Desktop\Simulador\obj\Debug\netcoreapp2.1\Simulador.AssemblyInfoInputs.cache
+C:\Users\35711103822\Desktop\Simulador\obj\Debug\netcoreapp2.1\Simulador.AssemblyInfo.cs
+C:\Users\35711103822\Desktop\Simulador\bin\Debug\netcoreapp2.1\Simulador.deps.json
+C:\Users\35711103822\Desktop\Simulador\bin\Debug\netcoreapp2.1\Simulador.runtimeconfig.json
+C:\Users\35711103822\Desktop\Simulador\bin\Debug\netcoreapp2.1\Simulador.runtimeconfig.dev.json
+C:\Users\35711103822\Desktop\Simulador\bin\Debug\netcoreapp2.1\Simulador.dll
+C:\Users\35711103822\Desktop\Simulador\bin\Debug\netcoreapp2.1\Simulador.pdb
+C:\Users\35711103822\Desktop\Simulador\obj\Debug\netcoreapp2.1\Simulador.dll
+C:\Users\35711103822\Desktop\Simulador\obj\Debug\netcoreapp2.1\Simulador.pdb

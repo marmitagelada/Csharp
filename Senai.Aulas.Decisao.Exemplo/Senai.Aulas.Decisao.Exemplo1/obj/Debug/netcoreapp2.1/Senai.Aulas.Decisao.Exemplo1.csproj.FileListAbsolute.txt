@@ -1,0 +1,4 @@
+C:\Users\35711103822\Desktop\Senai.Aulas.Decisao.Exemplo1\Senai.Aulas.Decisao.Exemplo1\obj\Debug\netcoreapp2.1\Senai.Aulas.Decisao.Exemplo1.csprojAssemblyReference.cache
+C:\Users\35711103822\Desktop\Senai.Aulas.Decisao.Exemplo1\Senai.Aulas.Decisao.Exemplo1\obj\Debug\netcoreapp2.1\Senai.Aulas.Decisao.Exemplo1.csproj.CoreCompileInputs.cache
+C:\Users\35711103822\Desktop\Senai.Aulas.Decisao.Exemplo1\Senai.Aulas.Decisao.Exemplo1\obj\Debug\netcoreapp2.1\Senai.Aulas.Decisao.Exemplo1.AssemblyInfoInputs.cache
+C:\Users\35711103822\Desktop\Senai.Aulas.Decisao.Exemplo1\Senai.Aulas.Decisao.Exemplo1\obj\Debug\netcoreapp2.1\Senai.Aulas.Decisao.Exemplo1.AssemblyInfo.cs
