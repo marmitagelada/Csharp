@@ -1,0 +1,25 @@
+            @{ Layout = "MasterPageDeslogado"; }
+            
+            <h1>Cadastro de Usuários</h1>
+
+            <form action="/Usuario/Cadastro" method="POST">
+                <label>
+                    Nome
+                    <input type="text" name="nome">
+                </label>
+
+                <label>
+                    E-mail
+                    <input type="email" name="email">
+                </label>
+
+                <label>
+                    Senha
+                    <input type="password" name="senha">
+                </label>
+
+                <button type="submit">Salvar</button>
+                
+            </form>
+            
+            @ViewBag.Mensagem

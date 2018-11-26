@@ -1,0 +1,33 @@
+<html>
+        <head>
+        </head>
+            <h1>Cadastro de Tarefas</h1>
+            
+            <a href="/Usuario/Cadastro">Cadastrar</a>
+            <a href="/Usuario/Login">Logar</a>
+
+            <section id="formulario">
+
+            <form action="/Tarefa/Cadastrar" method="POST">
+                <label>
+                    Nome
+                    <input type="text" name="nome">
+                </label>
+
+                <label>
+                    Descrição
+                    <textarea type="text" name="descricao" style="resize: none"></textarea>
+                </label>
+
+                <select>
+                    <option value="paraFazer">Para Fazer</option>
+                    <option value="fazendo">Fazendo</option>
+                    <option value="feito">Feito</option>
+                </select>
+                <button type="submit">Salvar</button>
+            </form>
+            </section>
+
+            @ViewBag.Mensagem
+
+</html>

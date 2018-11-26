@@ -1,0 +1,11 @@
+C:\Users\35711103822\Desktop\Senai.MVC.Pizzaria\bin\Debug\netcoreapp2.1\Senai.MVC.Pizzaria.deps.json
+C:\Users\35711103822\Desktop\Senai.MVC.Pizzaria\bin\Debug\netcoreapp2.1\Senai.MVC.Pizzaria.runtimeconfig.json
+C:\Users\35711103822\Desktop\Senai.MVC.Pizzaria\bin\Debug\netcoreapp2.1\Senai.MVC.Pizzaria.runtimeconfig.dev.json
+C:\Users\35711103822\Desktop\Senai.MVC.Pizzaria\bin\Debug\netcoreapp2.1\Senai.MVC.Pizzaria.dll
+C:\Users\35711103822\Desktop\Senai.MVC.Pizzaria\bin\Debug\netcoreapp2.1\Senai.MVC.Pizzaria.pdb
+C:\Users\35711103822\Desktop\Senai.MVC.Pizzaria\obj\Debug\netcoreapp2.1\Senai.MVC.Pizzaria.csprojAssemblyReference.cache
+C:\Users\35711103822\Desktop\Senai.MVC.Pizzaria\obj\Debug\netcoreapp2.1\Senai.MVC.Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\35711103822\Desktop\Senai.MVC.Pizzaria\obj\Debug\netcoreapp2.1\Senai.MVC.Pizzaria.AssemblyInfoInputs.cache
+C:\Users\35711103822\Desktop\Senai.MVC.Pizzaria\obj\Debug\netcoreapp2.1\Senai.MVC.Pizzaria.AssemblyInfo.cs
+C:\Users\35711103822\Desktop\Senai.MVC.Pizzaria\obj\Debug\netcoreapp2.1\Senai.MVC.Pizzaria.dll
+C:\Users\35711103822\Desktop\Senai.MVC.Pizzaria\obj\Debug\netcoreapp2.1\Senai.MVC.Pizzaria.pdb
